@@ -5,3 +5,11 @@ need rinkedby testnet ether
 reveal, unreveal means..
 
 only minted file can see on opensea?
+
+what means;
+
+pre-sale
+public-sale
+crowd sale  => ???
+yield farming => ???
+staking => ???
