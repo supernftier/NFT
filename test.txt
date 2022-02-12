@@ -13,3 +13,5 @@ public-sale
 crowd sale  => ???
 yield farming => ???
 staking => ???
+
+4.00
