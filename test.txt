@@ -1,9 +1,5 @@
 what means;
 
-pre-sale
-public-sale
-crowd sale  => ???
-yield farming => ???
-staking => ???
-
-4.00
+crowd sale 
+reveal
+setNotRevealedURI(param) ==> how can use this ?  param example need...
