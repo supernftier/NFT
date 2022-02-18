@@ -1,9 +1,22 @@
-SOS
-ERC1155 mint and staking project sample is needed for my first upwork task.
-ASAP
-4.00
+collection : https://opensea.io/collection/aloha-fortune-polygon
+contract : https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963
+collection owner : https://polygonscan.com/address/0xBaa9F40A4785Eb5ea0204a3eA5820863Bf39CF93 (I think it isn't important)
 
-BNC 0.05 ~ 0.1 is needed.If possible , please send me.sorry..
-0xb70eE1a9AD515FB7d54d35590857219e0c0d7Db6
+requirement:
+- deploy on Rinkeby and Polygon MainNet
+- minted ERC1155 catch and show it in my site
+  "I need a react app where you can mint an NFT StickerBook(it means ERC1155), and then when you connect your wallet it will lightup the NFTs you have and show in black and white the ones not collected yet"
+- "One thing about the books(it means ERC1155 or NFT), lets allow multiple redeemed books for wallet, and only one active, this is important because we can increase the staking multiplier according the amount of books the wallet have redeemed, so when a wallet have all the nfts to complete the book, a function redeemAlbum or similar, if the wallet the overall staking power should be relative to the number of redeemed books" - ???
+- nft(ERC1155) staking will give one GUITA(ERC20 token name) as reward every 24hrs
+
+ref url recevied by client: ==> but I think you can do it without these.
+https://docs.opensea.io/reference/api-overview
+https://projectopensea.github.io/opensea-js/
+https://api.opensea.io/api/v1/collection/aloha-fortune-polygon
+https://api.opensea.io/api/v1/collection/aloha-fortune-polygon/stats
+https://api.opensea.io/api/v1/events?collection_slug=aloha-fortune-polygon  (Access is denied )
+https://github.com/animocabrands/ethereum-contracts-nft_staking (It's for staking)
+
+*** I'll update 1 hr later again. ***
 
 how can i get fake GMail.URL is needed.
