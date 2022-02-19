@@ -1,7 +1,7 @@
- apiKey: '???'
- how can i get apikey?
+ERC1155 Staking check
+how can i get fake GMail.URL is needed.
+4.00 !!!
  
-
 
 collection : https://opensea.io/collection/aloha-fortune-polygon
 contract : https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963
@@ -24,4 +24,4 @@ https://github.com/animocabrands/ethereum-contracts-nft_staking (It's for stakin
 
 *** I'll update 1 hr later again. ***
 
-how can i get fake GMail.URL is needed.
+
