@@ -1,5 +1,11 @@
+ASAP ANSWER
 ERC1155 Staking check
-how can i get fake GMail.URL is needed.
+According to the client's requirement, I have to deploy the contract on Rinkeby TestNetwork again , so I think, the assets and metadata are needed.Right?
+But I don't know how can solve this without decentralized storage.
+So I have to require the assets and metadata to the client.Right?
+
+how can i get fake GMail.      ref URL is needed.
+
 4.00 !!!
  
 
