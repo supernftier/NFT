@@ -1,3 +1,8 @@
+ apiKey: '???'
+ how can i get apikey?
+ 
+
+
 collection : https://opensea.io/collection/aloha-fortune-polygon
 contract : https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963
 collection owner : https://polygonscan.com/address/0xBaa9F40A4785Eb5ea0204a3eA5820863Bf39CF93 (I think it isn't important)
